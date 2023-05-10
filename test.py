@@ -7,5 +7,6 @@ def circum_circle(r):
     """
     return 2*np.pi*r
 def area_circle(r):
+    '''It computes the area of a circle'''
     return np.pi*r**2
 
